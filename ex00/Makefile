@@ -1,4 +1,4 @@
-NAME = type
+NAME = convert
 
 SRCS = main.cpp Convert.cpp
 

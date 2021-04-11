@@ -1,4 +1,4 @@
-NAME = type
+NAME = ser
 
 SRCS = main.cpp
 
